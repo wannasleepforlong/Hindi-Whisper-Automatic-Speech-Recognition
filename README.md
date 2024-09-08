@@ -1,10 +1,10 @@
 # Hindi-Whisper-Automatic-Speech-Recognition
 Transcription of Hindi audio using Whisper OpenAI 
 
-##Overview
+## Overview
 This repository contains the implementation of the Hindi Whisper Automatic Speech Recognition (ASR) model using OpenAI's Whisper. It includes the transcription of audio files and evaluation of performance using Word Error Rate (WER). The dataset used is the Kathbath dataset.
 
-##Project Description
+## Project Description
 The project involves:
 
 - Transcription: Using the Whisper ASR model to transcribe Hindi audio files.
@@ -13,7 +13,7 @@ The project involves:
   
 - Analysis: Analyzing errors such as substitutions, deletions, and insertions in the transcriptions.
 
-##Usage
+## Usage
 - Download and Prepare Data: The dataset is automatically downloaded. The dataset used is Kathbath dataset.
 
 - Transcription: The ASR model transcribes audio files from the Kathbath dataset.
